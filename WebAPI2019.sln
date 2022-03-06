@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI2019", "WebAPI2019\WebAPI2019.csproj", "{191106A7-3BA7-46B6-AF87-5DAC2EA02096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeDataLibrary", "EmployeeDataLibrary\EmployeeDataLibrary.csproj", "{3D63F596-1405-4FF9-B44E-A7E287A7BE48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{191106A7-3BA7-46B6-AF87-5DAC2EA02096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191106A7-3BA7-46B6-AF87-5DAC2EA02096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191106A7-3BA7-46B6-AF87-5DAC2EA02096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191106A7-3BA7-46B6-AF87-5DAC2EA02096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D63F596-1405-4FF9-B44E-A7E287A7BE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D63F596-1405-4FF9-B44E-A7E287A7BE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D63F596-1405-4FF9-B44E-A7E287A7BE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D63F596-1405-4FF9-B44E-A7E287A7BE48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F087910-27B5-423D-AB3B-6ECBEBD40C0D}
+	EndGlobalSection
+EndGlobal
